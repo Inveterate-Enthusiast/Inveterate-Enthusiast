@@ -58,3 +58,7 @@
         </tbody>
     </table>
 </div>
+
+<div>
+    <img src="Media/VidnozImageToVideo.gif" width="400px">
+</div>
