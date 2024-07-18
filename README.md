@@ -55,6 +55,14 @@
                     leetcode.com/u/Inveterate_Enthusiast
                 </td>
             </tr>
+            <tr>
+                <td>
+                    <a href="https://t.me/SunWisp"><img src="Media/SVG/telegram.svg" width="40px">
+                </td>
+                <td>
+                    @SunWisp
+                </td>
+            </tr>
         </tbody>
     </table>
 </div>
