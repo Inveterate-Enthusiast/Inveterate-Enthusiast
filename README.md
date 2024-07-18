@@ -1,6 +1,6 @@
 <div>
     <div align="center">
-        <img src="https://readme-typing-svg.herokuapp.com?font=baloo&weight=900&size=50&duration=1500&color=78D8EF&center=true&multiline=true&repeat=false&width=450&height=90&lines=Hello%2C+fellows!" width="70%" hspace=10 wspace=10/>
+        <img src="https://readme-typing-svg.herokuapp.com?font=baloo&weight=900&size=50&duration=1500&pause=1000&color=78D8EF&multiline=true&width=450&height=70&lines=Hello%2C+fellows!" width="700px" hspace=10 wspace=10/><br><br>
     </div>
     <div align="left">
         <img src="Media/ImageAI - 1024x1024.gif"    width="207px" align="left">
