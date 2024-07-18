@@ -41,7 +41,7 @@
         <tboby>
             <tr>
                 <td>
-                    <a href="Martin_Joachim@tutanota.com"><img src="Media/SVG/tutanota.svg" width="40px"></a>
+                    <a href="mailto:Martin_Joachim@tutanota.com"><img src="Media/SVG/tutanota.svg" width="40px"></a>
                 </td>
                 <td>
                     Martin_Joachim@tutanota.com
