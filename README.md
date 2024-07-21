@@ -41,10 +41,10 @@
         <tboby>
             <tr>
                 <td>
-                    <a href="mailto:Martin_Joachim@tutanota.com"><img src="Media/SVG/tutanota.svg" width="40px"></a>
+                    <a href="mailto:sunwisp@skiff.com"><img src="Media/SVG/skiff-logo-circle.svg" width="40px"></a>
                 </td>
                 <td>
-                    Martin_Joachim@tutanota.com
+                    sunwisp@skiff.com
                 </td>
             </tr>
             <tr>
