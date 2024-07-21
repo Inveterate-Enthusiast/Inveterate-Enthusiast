@@ -44,7 +44,7 @@
                     <a href="mailto:sunwisp@skiff.com"><img src="Media/SVG/skiff-logo-circle.svg" width="40px"></a>
                 </td>
                 <td>
-                    sunwisp@skiff.com
+                    <a href="mailto:sunwisp@skiff.com">sunwisp@skiff.com</a>
                 </td>
             </tr>
             <tr>
@@ -52,7 +52,7 @@
                     <a href="https://leetcode.com/u/Inveterate_Enthusiast/"><img src="Media/leetcode(1).png" width="40px"></a>
                 </td>
                 <td>
-                    leetcode.com/u/Inveterate_Enthusiast
+                    <a href="https://leetcode.com/u/Inveterate_Enthusiast/">leetcode.com/u/Inveterate_Enthusiast</a>
                 </td>
             </tr>
             <tr>
@@ -60,7 +60,7 @@
                     <a href="https://t.me/SunWisp"><img src="Media/SVG/telegram.svg" width="40px">
                 </td>
                 <td>
-                    @SunWisp
+                    <a href="https://t.me/SunWisp">@SunWisp</a>
                 </td>
             </tr>
         </tbody>
