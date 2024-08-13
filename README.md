@@ -41,10 +41,10 @@
         <tboby>
             <tr>
                 <td>
-                    <a href="mailto:sunwisp@skiff.com"><img src="Media/SVG/skiff-logo-circle.svg" width="40px"></a>
+                    <a href="mailto:sunwisp@beeble.com"><img src="Media/Beeble-Logo.png" width="40px"></a>
                 </td>
                 <td>
-                    <a href="mailto:sunwisp@skiff.com">sunwisp@skiff.com</a>
+                    <a href="mailto:sunwisp@beeble.com">sunwisp@beeble.com</a>
                 </td>
             </tr>
             <tr>
