@@ -3,10 +3,10 @@
         <img src="https://readme-typing-svg.herokuapp.com?font=baloo&weight=900&size=50&duration=1500&pause=1000&color=78D8EF&multiline=true&width=450&height=70&lines=Hello%2C+fellows!" width="700px" hspace=10 wspace=10/><br><br>
     </div>
     <div align="left">
-        <img src="Media/ImageAI - 1024x1024.gif"    width="207px" align="left">
+        <img src="Media/ImageAI - 1024x1024.gif"    width="300px" height="300px" align="left">
     </div>
     <div align="right">
-        <a href="https://leetcode.com/u/Inveterate_Enthusiast/"><img src="https://leetcode.card.workers.dev/Inveterate_Enthusiast?theme=auto&font=baloo&extension=null" width="519px"></a>
+        <a href="https://leetcode.com/u/Inveterate_Enthusiast/"><img src="https://leetcard.jacoblin.cool/Inveterate_Enthusiast?theme=dark&font=Aleo&ext=heatmap" height="300px"></a>
     </div>
 </div>
 <br>
